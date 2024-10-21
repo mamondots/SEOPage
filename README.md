@@ -6,7 +6,7 @@ This is a landing page to create nextjs tailwind css or framer motion
 
 This is live link of my project
 
-https://mamondots.netlify.app/
+[https://mamondots.netlify.app/](https://aiseos.netlify.app/)
 
 
 ## Getting Started
