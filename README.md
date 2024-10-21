@@ -1,4 +1,5 @@
 AI SEO Animated landing page
+
 This is a landing page to create nextjs tailwind css or framer motion
 
 ![Logo](https://i.ibb.co.com/CwHBrMf/screencapture-localhost-3000-2024-10-21-12-58-26.png)
