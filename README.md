@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+AI SEO Animated landing page
+This is a landing page to create nextjs tailwind css or framer motion
+
+![Logo](https://i.ibb.co.com/CwHBrMf/screencapture-localhost-3000-2024-10-21-12-58-26.png)
+
+This is live link of my project
+
+https://mamondots.netlify.app/
+
 
 ## Getting Started
 
